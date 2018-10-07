@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Springboot_test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maven.war">
+      <element id="artifact" artifact-name="Springboot_test:war exploded" />
+    </root>
+  </artifact>
+</component>
